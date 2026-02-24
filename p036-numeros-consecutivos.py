@@ -15,4 +15,7 @@ n2 = int(input('Intruduce el Número 2: '))
 n3 = int(input('Intruduce el Número 3: '))
 
 
-
+if n2 == n1 + 1 and n3 == n2 + 1:
+    print('Los números son consecutivos')
+else:
+    print('Los números no son consecutivos')

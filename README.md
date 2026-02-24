@@ -56,7 +56,7 @@ Jennifer Fátima Rodríguez Dávila
 - p038-dia-semana.py
 - p039-numeros-romanos.py
 - p040-calculo-notas.py
-- p041-aceptar-estudiante-v2
+- p041-aceptar-estudiante-v2.py
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
 
