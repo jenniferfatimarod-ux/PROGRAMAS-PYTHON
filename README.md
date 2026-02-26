@@ -86,3 +86,6 @@ Jennifer Fátima Rodríguez Dávila
 - p062-conversion-temperaturas.py
 - p063-numero-mayor.py
 - p064-verificar-palindromo.py
+
+## Actividad 9 Ejercicio de repaso
+- p065-repaso-primer-parcial.py
