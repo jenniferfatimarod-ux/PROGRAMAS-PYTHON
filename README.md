@@ -89,3 +89,6 @@ Jennifer Fátima Rodríguez Dávila
 
 ## Actividad 9 Ejercicio de repaso
 - p065-repaso-primer-parcial.py
+
+## Primer Examen Parcial
+- p066-primer-parcial.py
