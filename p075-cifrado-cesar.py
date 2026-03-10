@@ -2,7 +2,7 @@
 #Cifra un mensaje usando el cig¿frado de Cesar
 
 print("\033[2J\033[H")
-print('Cifra un mensaje usando el cig¿frado de Cesar')
+print('Cifra un mensaje usando el cifrado de Cesar')
 
 mensaje_original = input('Mensaje a encriptar: ')
 desplazamiento = int(input('Desplazamiento: '))
