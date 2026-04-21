@@ -177,3 +177,7 @@ Jennifer Fátima Rodríguez Dávila
 - p121-municipios.py
 - p122-operaciones-conjuntos.py
 
+## Tarea 7
+- p123-conjunto-personas.py
+- p124-conjunt-numeros.py
+
