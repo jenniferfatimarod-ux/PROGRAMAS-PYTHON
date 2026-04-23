@@ -181,3 +181,5 @@ Jennifer Fátima Rodríguez Dávila
 - p123-conjunto-personas.py
 - p124-conjunt-numeros.py
 
+## Segundo Examen Parcial
+- p125-segundo-examen-parcial.py
