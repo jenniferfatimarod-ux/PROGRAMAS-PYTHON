@@ -183,3 +183,12 @@ Jennifer Fátima Rodríguez Dávila
 
 ## Segundo Examen Parcial
 - p125-segundo-examen-parcial.py
+
+## Actividad 18 - Funciones - Parte 2
+- p142-suma-lista.py
+- p143-lista-pares.py
+- p144-mayor-menor.py
+- p145-mayores-promedio.py
+- p146-pares-impares.py
+- p147-aleatorios.py
+- p148-nombres.py
