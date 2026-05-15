@@ -228,3 +228,6 @@ Jennifer Fátima Rodríguez Dávila
 
 ## Actividad 20
 - p160-ventas.py
+
+## Tarea 9
+- p161-control-libros.py
